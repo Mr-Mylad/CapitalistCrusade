@@ -15,3 +15,12 @@ All changes:
     Imported webpack, webpack-cli, and firebase node_modules
     Finished webpack.config.json
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+v0.0.2
+
+Summarized change: Added scroll animation
+
+All changes: 
+    Updated CSS to allow scroll animation
+    Added scrollAnimator.js to check if the user is able to see a element, if the user is, then trigger scroll animation
+    Updated index.js to accommodate scrollAnimator.js
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-

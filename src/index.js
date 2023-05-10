@@ -7,3 +7,9 @@ import { initializeApp } from "firebase/app";
 import firebaseConfig from "./firebaseConfig";
 
 const app = initializeApp(firebaseConfig);
+
+// My code
+
+// Scroll Animator
+import addScrollAnimator from "./scrollAnimator";
+addScrollAnimator(document.querySelectorAll(".animated"));
