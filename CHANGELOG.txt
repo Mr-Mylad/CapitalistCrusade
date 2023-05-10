@@ -1,0 +1,17 @@
+Please refer to CHANGELOG.txt for concrete version numbers and details.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+v0.0.1
+
+Summarized change: Initialized project
+
+All changes:
+    Made CHANGELOG.txt
+    Made index.html
+    Made style.css
+    Made index.js
+    Made .gitignore
+    Made package.json
+    Imported webpack, webpack-cli, and firebase node_modules
+    Finished webpack.config.json
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-

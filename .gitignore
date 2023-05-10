@@ -1,0 +1,11 @@
+# Editor files
+.vscode
+
+# Node modules
+node_modules
+
+# Firebase config
+firebaseConfig.js
+
+# Final bundled script
+script.js
